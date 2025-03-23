@@ -11,7 +11,7 @@ const sampleData = {
       rating: 4.5,
       numReviews: 10,
       stock: 5,
-      isFeauted: true,
+      isFeature: true,
       banner: 'banner-1.jpg',
     },
     {
@@ -25,7 +25,7 @@ const sampleData = {
       rating: 4.2,
       numReviews: 8,
       stock: 10,
-      isFeauted: true,
+      isFeature: true,
       banner: 'banner-2.jpg',
     },
     {
@@ -39,7 +39,7 @@ const sampleData = {
       rating: 4.9,
       numReviews: 3,
       stock: 0,
-      isFeauted: false,
+      isFeature: false,
       banner: null,
     },
     {
@@ -53,7 +53,7 @@ const sampleData = {
       rating: 3.6,
       numReviews: 5,
       stock: 10,
-      isFeauted: false,
+      isFeature: false,
       banner: null,
     },
     {
@@ -67,7 +67,7 @@ const sampleData = {
       rating: 4.7,
       numReviews: 18,
       stock: 6,
-      isFeauted: false,
+      isFeature: false,
       banner: null,
     },
     {
@@ -81,7 +81,7 @@ const sampleData = {
       rating: 4.6,
       numReviews: 12,
       stock: 8,
-      isFeauted: true,
+      isFeature: true,
       banner: null,
     },
   ],
